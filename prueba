@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="ES: EL TORO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="ES ONETORO PPV",ES: EL TORO HD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/336310.ts
-#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="ES: EL TORO TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="ES ONETORO PPV",ES: EL TORO TV HD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/321232.ts
-#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="ES: EL TORO TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="ES ONETORO PPV",ES: EL TORO TV SD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/586222.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: FERIA DE MADRID HD" tvg-logo="" group-title="ES ONETORO PPV",ES: FERIA DE MADRID HD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/1282012.ts
-#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ES: ONETORO TV FHD" tvg-logo="https://festejos.onetoro.tv/assets/customer/rrss.png" group-title="ES ONETORO PPV",ES: ONETORO TV FHD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/558671.ts
-#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ES: ONETORO TV HD" tvg-logo="https://festejos.onetoro.tv/assets/customer/rrss.png" group-title="ES ONETORO PPV",ES: ONETORO TV HD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/558672.ts
-#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ES: ONETORO TV SD" tvg-logo="https://festejos.onetoro.tv/assets/customer/rrss.png" group-title="ES ONETORO PPV",ES: ONETORO TV SD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/558673.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE TV FHD" tvg-logo="https://contenidostv.es/images/torole512.png" group-title="ES ONETORO PPV",ES: TOROLE TV FHD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/539876.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE TV HD" tvg-logo="https://contenidostv.es/images/torole512.png" group-title="ES ONETORO PPV",ES: TOROLE TV HD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/539877.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE TV SD" tvg-logo="https://contenidostv.es/images/torole512.png" group-title="ES ONETORO PPV",ES: TOROLE TV SD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/539878.ts
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="ES ONETORO PPV",ES: TOROS FHD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/321445.ts
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="ES ONETORO PPV",ES: TOROS HD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/321446.ts
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="ES ONETORO PPV",ES: TOROS SD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/321449.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES: LALIGA TV HYPERMOTION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="ES HYPERMOTION",ES: LALIGA TV HYPERMOTION FHD
 http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/571903.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES: LALIGA TV HYPERMOTION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="ES HYPERMOTION",ES: LALIGA TV HYPERMOTION HD
